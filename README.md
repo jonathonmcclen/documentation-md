@@ -126,6 +126,4 @@ Term 2
 
 ## HTML
 <div style="color: blue; font-weight: bold;">This is HTML content inside Markdown.</div>
-```
 
-Save this content in a file named `example.md` to view it properly formatted. This file includes examples of headings, text formatting, lists, links, images, blockquotes, code, tables, horizontal rules, emphasis, escaping characters, line breaks, footnotes, definition lists, emojis, and HTML.
