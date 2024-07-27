@@ -1,6 +1,6 @@
-Sure! Here's a comprehensive Markdown file (`example.md`) that showcases various formatting possibilities with Markdown:
 
-```markdown
+
+markdown
 # Markdown Formatting Guide
 
 ## Headings
